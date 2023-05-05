@@ -1,0 +1,5 @@
+Action Date;Action Type;Action Reference Number;Incoming Date;Reason Code;Reason Description;First Chargeback;Consumer Account Number;Transaction Date;Auth Number;ACQ Reference Number;Case Number;Amount
+02/17/2023;Adjustment;90001997229;02/15/2023;10.4;Fraud Card Absent Environment;Y;414709......4111;02/09/2023;04078D;2.43355E+22;2.02305E+12;-32.99
+02/17/2023;Adjustment;90001997229;02/15/2023;10.4;Fraud Card Absent Environment;Y;412752......4920;02/05/2023;704438;2.43355E+22;2.02305E+12;-15.06
+02/17/2023;Adjustment;90001997229;02/15/2023;4837;No Cardholder Authorization;Y;546616......1188;01/02/2023;70959Z;7.51817E+22;2.02305E+12;-29.99
+02/17/2023;Adjustment;90001997229;02/15/2023;10.4;Fraud Card Absent Environment;Y;440393......5842;02/10/2023;704438;2.43355E+22;2.02305E+12;-5
